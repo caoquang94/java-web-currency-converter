@@ -1,0 +1,17 @@
+.input[type = text]{
+    width: 300px;
+    font-size: 16px;
+    border: 2px solid #ccc;
+    border-radius: 3px;
+    padding: 12px 10px 12px 10px;
+}
+#summit{
+    border-radius: 4px;
+    padding: 10px 32px;
+    font-size: 20px;
+    color: white;
+    background-color: black;
+}
+.a{
+    text-align: center;
+}
